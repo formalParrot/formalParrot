@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi There! </h1>
 
 <div align="center">
-  <img src="https://github.com/formalParot/formalParrot/raw/main/banner.png" width="100%">
+  <img src="https://github.com/formalParrot/formalParrot/raw/main/banner.png" width="100%">
 </div>
 
 <h2 align="center"> 🙋‍♂️ About Myself </h2>
