@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en" class="dark">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>_justParrot</title>
+        <link rel="stylesheet" href="styles.css" />
+
+        <!-- franken -->
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/franken-ui@2.1.2/dist/css/core.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/franken-ui@2.1.2/dist/css/utilities.min.css"
+        />
+
+        <script src="https://cdn.jsdelivr.net/npm/franken-ui@2.1.2/dist/js/core.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/franken-ui@2.1.2/dist/js/icon.min.js"></script>
+
+        <!-- icons -->
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css"
+        />
+    </head>
+
+    <body class="bg-background text-foreground">
+        <!-- Profile Card -->
+        <div
+            class="card flex items-center max-w-lg mx-auto p-6 rounded-xl shadow-lg my-6"
+        >
+            <img
+                src="assets/avatar.png"
+                alt="Profile"
+                class="w-32 h-32 rounded-full object-cover mr-4"
+            />
+            <div class="text-left">
+                <h1 class="text-4xl font-bold text-primary">_justParrot</h1>
+                <p class="mt-2 text-foreground/90">
+                    "The unixamined life is not worth living."
+                    <strong>- Socrates</strong>
+                </p>
+            </div>
+        </div>
+
+        <!-- Cards Section -->
+        <div
+            class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-2xl mx-auto items-start"
+        >
+            <!-- LEFT COLUMN: Platforms -->
+            <div class="card p-6 rounded-xl shadow-lg text-center">
+                <h1 class="text-4xl font-bold text-primary">Platforms I use</h1>
+
+                <div class="mt-4">
+                    <h2 class="text-2xl">Languages</h2>
+                    <img
+                        src="https://skillicons.dev/icons?i=html,css,js,py&perline=4"
+                        class="mx-auto mt-4"
+                    />
+                </div>
+
+                <div class="mt-6">
+                    <h2 class="text-2xl">Social Platforms</h2>
+                    <img
+                        src="https://skillicons.dev/icons?i=discord,github&perline=4"
+                        class="mx-auto mt-4"
+                    />
+                </div>
+
+                <div class="mt-6">
+                    <h2 class="text-2xl">Tools</h2>
+                    <img
+                        src="https://skillicons.dev/icons?i=vscode,bash,sqlite&perline=4"
+                        class="mx-auto mt-4"
+                    />
+                </div>
+
+                <div class="mt-6">
+                    <h2 class="text-2xl">Operating Systems</h2>
+                    <img
+                        src="https://skillicons.dev/icons?i=apple,raspberrypi,linux,ubuntu&perline=4"
+                        class="mx-auto mt-4"
+                    />
+                </div>
+            </div>
+
+            <!-- RIGHT COLUMN: stacked -->
+            <div class="flex flex-col gap-4">
+                <!-- Contacts Card -->
+                <div class="card p-6 rounded-xl shadow-lg text-center">
+                    <h1 class="text-4xl font-bold text-primary">Contacts</h1>
+                    <p class="mt-2 text-foreground/90">Contact me via:</p>
+
+                    <div class="flex flex-col items-center gap-4 mt-4">
+                        <button
+                            class="uk-btn uk-btn-default btn-discord w-40"
+                            onclick="copy()"
+                        >
+                            Discord
+                        </button>
+                        <a
+                            class="uk-btn uk-btn-default w-40 border-none"
+                            href="https://github.com/formalParrot"
+                            target="_blank"
+                            >Github</a
+                        >
+                    </div>
+                </div>
+
+                <!-- Projects -->
+                <div class="card p-6 rounded-xl shadow-lg text-center">
+                    <h1 class="text-4xl font-bold text-primary">Projects</h1>
+                    <ul class="uk-list uk-list-divider mt-4">
+                        <li>
+                            <a
+                                href="https://github.com/formalParrot/bigstone-laws"
+                                class="uk-link-muted"
+                                target="_blank"
+                                >Bigstone Courthouse</a
+                            >
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- script>
+            function copy() {
+                // Get the text field
+                var copyText = `_justParrot`;
+
+                // Select the text field
+                copyText.select();
+                copyText.setSelectionRange(0, 99999); // For mobile devices
+
+                // Copy the text inside the text field
+                navigator.clipboard.writeText(copyText.value);
+
+                // Alert the copied text
+                alert("Copied the text: " + copyText.value);
+            }
+        </script -->
+    </body>
+</html>
