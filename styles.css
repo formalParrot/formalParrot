@@ -59,6 +59,15 @@
     background-color: #7d85e3;
 }
 
+.btn-github {
+    border: none;
+    background-color: #3a3e42;
+    color: #f9fafb;
+}
+.btn-github:hover {
+    background-color: #5b6066;
+}
+
 .uk-list-divider > li + li {
     border-top-color: #444; /* your color */
 }
