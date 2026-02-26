@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="assets/avatar.png"></img>
+
 I'm a small dev that has not examined life yet. 
 "The unixamined life is not worth living." **- Socrates**.
 
