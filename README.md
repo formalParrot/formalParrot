@@ -1,5 +1,3 @@
-<script src="https://cdn.tailwindcss.com"></script>
-
 ## Hi there 👋
 
 <img src="assets/avatar.png" class="w-40 h-40"></img>
