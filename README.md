@@ -1,6 +1,8 @@
+<script src="https://cdn.tailwindcss.com"></script>
+
 ## Hi there 👋
 
-<img src="assets/avatar.png"></img>
+<img src="assets/avatar.png" class="w-40 h-40"></img>
 
 I'm a small dev that has not examined life yet. 
 "The unixamined life is not worth living." **- Socrates**.
