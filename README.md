@@ -3,11 +3,11 @@
 <img src="assets/avatar.png" width="160" height="160"></img>
 
 I'm a small dev that has not examined life yet. 
-"The unixamined life is not worth living." **- Socrates**.
+*"The unixamined life is not worth living."* **- Socrates**.
 
 I'm looking to collaborate on any frontend project, im here if you need me :3
 
-You can contact me via Discord (`_justParrot`). My pronouns are __He/Him__
+You can contact me via Discord (`_justParrot`). My pronouns are _He/Him_
 
 <!--
 **formalParrot/formalParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
