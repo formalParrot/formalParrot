@@ -5,7 +5,7 @@
 I'm a small dev that has not examined life yet. 
 *"The unixamined life is not worth living."* **- Socrates**.
 
-I'm looking to collaborate on any frontend project, im here if you need me :3
+I'm looking to collaborate on any project, im here if you need me :3
 
 You can contact me via Discord (`_justParrot`). My pronouns are _He/Him_
 
