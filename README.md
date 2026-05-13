@@ -9,6 +9,8 @@ I'm looking to collaborate on any project, im here if you need me :3
 
 You can contact me via Discord (`_justParrot`). My pronouns are _He/Him_
 
+My [website](https://formalparrot.github.io)
+
 <!--
 **formalParrot/formalParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
