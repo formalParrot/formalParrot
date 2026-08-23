@@ -1,27 +1,10 @@
-## Hi there 👋
+## Hi there
 
 <!-- img src="assets/avatar.png" width="160" height="160"></img -->
 
 I'm a small dev that has not examined life yet. 
 *"The unixamined life is not worth living."* **- Socrates**.
 
-I'm looking to collaborate on any project, im here if you need me :3
+I'm looking to collaborate on any project, im here if you need me :D
 
 You can contact me via Discord (`_justParrot`). My pronouns are _He/Him_
-
-My [website](https://formalparrot.github.io)
-
-<!--
-**formalParrot/formalParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
